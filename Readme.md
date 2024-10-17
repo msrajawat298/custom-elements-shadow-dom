@@ -27,11 +27,6 @@ This repository contains a simple example demonstrating the use of Shadow DOM in
 
 The custom element `<my-element>` is defined in `index.js`. It attaches a shadow root and includes encapsulated styles and content.
 
-## License
-
-This project is licensed under the MIT License.
-
-
 - **Key Features**
     - **Encapsulation:** Shadow DOM provides a way to keep the internal structure and styles of a component hidden from the rest of the document. This prevents styles and scripts from leaking in or out.
     - **Scoped Styles:** Styles defined within a shadow DOM are scoped to that shadow tree and do not affect the rest of the document.
@@ -67,3 +62,8 @@ This project is licensed under the MIT License.
 
 ## Reference Link
 - [What is shadow dom?](https://youtu.be/7Tok22qxPzQ?si=gsCPyuUGqeYAcYy7)
+
+## License
+
+This project is licensed under the MIT License.
+

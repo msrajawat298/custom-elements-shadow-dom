@@ -1,4 +1,4 @@
-# Shadow DOM Example
+# [Shadow DOM Example](https://youtu.be/7Tok22qxPzQ?si=gsCPyuUGqeYAcYy7)
 
 The **Shadow DOM** is a web standard that allows developers to encapsulate a part of the DOM and CSS styles so that they do not interfere with the rest of the document. It is a key part of the Web Components standard, which enables the creation of reusable and encapsulated custom elements.
 
@@ -61,7 +61,8 @@ The custom element `<my-element>` is defined in `index.js`. It attaches a shadow
 
 
 ## Reference Link
-- [What is shadow dom?](https://youtu.be/7Tok22qxPzQ?si=gsCPyuUGqeYAcYy7)
+- [Watch the video on YouTube](https://youtu.be/lskQb_wZkJQ)
+
 
 ## License
 
